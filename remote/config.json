@@ -1,0 +1,24 @@
+{
+  "config_version": 1,
+  "app_title": "مهامي",
+  "subtitle": "نظّم يومك خطوة بخطوة",
+  "primary_color": "#6750A4",
+  "theme_mode": "system",
+  "announcement": {
+    "enabled": true,
+    "text": "👋 أهلاً! هذا الإعلان يأتي من GitHub — عدّل remote/config.json وشوف التغيير مباشرة.",
+    "color": "#FFD54F",
+    "url": ""
+  },
+  "features": {
+    "show_stats": true,
+    "show_priority": true,
+    "show_suggestions": true,
+    "show_clear_completed": true
+  },
+  "suggested_tasks": ["شرب الماء 💧", "قراءة 10 صفحات 📖", "رياضة 30 دقيقة 🏃", "مراجعة البريد 📧"],
+  "maintenance": {
+    "enabled": false,
+    "message": "نقوم ببعض التحسينات، نرجع لك قريباً 🔧"
+  }
+}
